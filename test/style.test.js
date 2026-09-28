@@ -3,7 +3,7 @@ const path = require('path');
 const { JSDOM } = require('jsdom');
 
 const htmlFilePath = path.resolve(__dirname, '../index.html');
-const cssFilePath = path.resolve(__dirname, '../style.css');
+const cssFilePath = path.resolve(__dirname, 'C:\\Users\\Paul\\Desktop\\Moringa\\Assignment\\css lab\\phase-0-js-css-layouts-lab\\style.css');
 let dom;
 let document;
 
